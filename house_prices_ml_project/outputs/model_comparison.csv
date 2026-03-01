@@ -1,0 +1,7 @@
+,RMSE,R²
+Linear Regression,0.07465,0.9162
+Lasso Regression,0.07471,0.916
+Ridge Regression,0.07475,0.9159
+Gradient Boosting,0.07678,0.9113
+Random Forest,0.08485,0.8917
+Neural Network,0.69022,-6.1676
